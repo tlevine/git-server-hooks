@@ -1,0 +1,8 @@
+#!/bin/sh
+set -e
+
+cat /dev/stdin > /dev/null
+cd ..
+unset GIT_DIR
+
+command git checkout -f

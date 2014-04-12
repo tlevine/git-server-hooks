@@ -1,0 +1,4 @@
+These are git hooks for my git server.
+Copy the `hooks` directory to `~/hooks`
+so that my `publicgit` function in my
+shell profile works.
